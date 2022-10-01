@@ -1,0 +1,156 @@
+/* * {
+    margin: 0;
+    padding: 0;font-family: 'Poppins', sans-serif;
+    font-size:0.9rem ;
+}
+ 
+.header {}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: black;
+}
+
+.navList {
+    display: flex;
+    justify-self: space-evenly;
+    list-style: none;
+
+}
+
+.nav-list-item {
+    margin: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white
+}
+
+.logo-img {
+    align-self: center;
+    margin-right: 20px;
+}
+
+.secondary-navlist {
+    display: flex;
+    justify-self: space-evenly;
+    list-style: none;
+}
+
+.seconday-nav-list-item {
+    margin: 10px;
+}
+
+.main-head-section {
+    background-image: url('background.jpg');
+    height: 100vh;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5);
+}
+
+.main-right-section {
+    width: 450px;
+}
+
+.main-head-right-section {
+    width: 60%;
+    height: 70vh;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white
+}
+
+.btn {
+    min-height: 40px;
+    min-width: 100px;
+    font-size: large;
+    font-weight: bold;
+    padding: 0 30px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+.moreinfo{
+    color:white;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-left: 0.5rem;
+    
+}
+.trending-badge {
+    background-color: #E50914;
+    color: black;
+    font-size: 0.8rem;
+    font-weight: bold;
+    display: inline-block;
+    padding: 0px 5px;
+    line-height:15px;  
+    border-radius: 3px;
+
+}
+
+.main-head-right-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-head-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-head-footer-div{
+    color: white;
+    max-width: 20%;
+    text-align: center;
+    padding: 15px;
+}
+.main-head-footer-div-mid{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+.movie-card{
+    width:260px;
+    height: 120px;
+    background-color: black;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.movie-badge{
+    position:absolute;
+    top:0;
+    right:0;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+    line-height:15px;  
+    color:white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    border-radius: 1px;
+} */
+
+.main{
+    display: flex;
+}
+.divs{
+    width:50%;
+    background-color: rgb(198, 183, 183);
+    height: 50vh;
+    text-align: center;
+}
+
+.image-section{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(125, 125, 242);
+}
+
+.image-list{
+    display: flex;
+}

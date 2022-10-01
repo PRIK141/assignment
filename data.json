@@ -1,0 +1,47 @@
+[
+  {
+    "entity": "Countries",
+    "images": [
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776"
+    ],
+    "desc": [
+      "description for image 1",
+      "description for image 2",
+      "description for  image 3"
+    ]
+  },
+  {
+    "entity": "Scientists",
+    "images": [
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776"
+    ],
+    "desc": [
+      "description for image 1",
+      "description for image 2",
+      "description for  image 3",
+      "description for image 4",
+      "description for  image 5"
+    ]
+  },
+  {
+    "entity": "Sportspersons",
+    "images": [
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776",
+      "https://via.placeholder.com/150/d32776"
+    ],
+    "desc": [
+      "description for image 1",
+      "description for image 2",
+      "description for  image 3",
+      "description for image 4"
+    ]
+  }
+]
